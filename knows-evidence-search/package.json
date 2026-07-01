@@ -1,0 +1,9 @@
+{
+  "name": "knows-evidence-search",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p scripts/tsconfig.json"
+  }
+}

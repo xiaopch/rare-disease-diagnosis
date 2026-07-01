@@ -28,7 +28,7 @@ python app.py
 
 - <img src="001.png" title="" alt="" width="796">
   
-  ![002.png](C:\Users\Administrator\Desktop\罕见病辅助诊断系统V4.0\002.png)
+  ![002.png](002.png)
 
 ## 5. 局限性与未来规划
 

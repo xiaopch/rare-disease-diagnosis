@@ -1,0 +1,7 @@
+interface:
+  display_name: "KnowS Evidence Search"
+  short_description: "Search public KnowS medical evidence APIs from six evidence sources."
+  default_prompt: "Use $knows-evidence-search to search public KnowS medical evidence APIs and explain the returned question_id, evidences, and any additional fields."
+
+policy:
+  allow_implicit_invocation: true

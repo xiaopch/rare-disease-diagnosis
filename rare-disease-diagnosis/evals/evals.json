@@ -1,0 +1,140 @@
+[
+  {
+    "query": "用户症状：手脚经常感到烧灼样疼痛，出汗很少，皮肤上有小红点，最近检查发现蛋白尿。",
+    "should_trigger": true,
+    "expected_disease": "法布雷病",
+    "description": "典型法布雷病三联征：肢端烧灼痛 + 少汗 + 血管角质瘤 + 肾脏受累"
+  },
+  {
+    "query": "用户症状：孩子肚子越来越大，摸到脾脏很大，经常流鼻血，容易瘀青，检查说贫血和血小板低。",
+    "should_trigger": true,
+    "expected_disease": "戈谢病",
+    "description": "戈谢病典型表现：肝脾肿大 + 血液系统异常"
+  },
+  {
+    "query": "用户症状：宝宝三个月了，全身软绵绵的，头竖不稳，吃奶很费劲，心脏检查说心肌肥厚。",
+    "should_trigger": true,
+    "expected_disease": "庞贝病",
+    "description": "婴儿型庞贝病：严重肌无力 + 肥厚性心肌病"
+  },
+  {
+    "query": "用户症状：最近两个月发现右眼皮越来越抬不起来，看东西有重影，到了下午症状更明显，休息后会好一些。",
+    "should_trigger": true,
+    "expected_disease": "重症肌无力",
+    "description": "重症肌无力经典表现：眼睑下垂 + 复视 + 晨轻暮重"
+  },
+  {
+    "query": "用户症状：50岁男性，最近半年手指越来越不灵活，扣纽扣困难，虎口处肌肉萎缩，有时能看到肌肉在跳动。",
+    "should_trigger": true,
+    "expected_disease": "肌萎缩侧索硬化症",
+    "description": "ALS 典型表现：手内在肌萎缩 + 肌束震颤"
+  },
+  {
+    "query": "用户症状：6个月大的婴儿，全身很软，不会翻身，哭声很小，吃奶无力，医生说是运动神经元病。",
+    "should_trigger": true,
+    "expected_disease": "脊髓性肌萎缩症",
+    "description": "SMA I型：婴儿期对称性肌无力 + 肌张力低下"
+  },
+  {
+    "query": "用户症状：男孩，膝关节经常自发性肿胀，有一次拔牙后血流不止，舅舅也有类似情况。",
+    "should_trigger": true,
+    "expected_disease": "血友病",
+    "description": "血友病：男性 + 关节出血 + 创伤后出血不止 + X连锁家族史"
+  },
+  {
+    "query": "用户症状：35岁，体检发现双肾多个囊肿，最近血压偏高，母亲也是多囊肾，已经透析了。",
+    "should_trigger": true,
+    "expected_disease": "多囊肾",
+    "description": "ADPKD：双肾囊肿 + 高血压 + 家族史"
+  },
+  {
+    "query": "用户症状：20岁男性，身高190cm，手指特别细长，高度近视，最近突然剧烈胸痛。",
+    "should_trigger": true,
+    "expected_disease": "马凡综合征",
+    "description": "马凡综合征：高瘦体型 + 蜘蛛指 + 高度近视 + 主动脉夹层"
+  },
+  {
+    "query": "用户症状：15岁少年，转氨酶一直偏高查不出原因，最近手开始发抖，角膜检查发现棕色环。",
+    "should_trigger": true,
+    "expected_disease": "肝豆状核变性",
+    "description": "Wilson病：青少年不明原因肝病 + 震颤 + K-F环"
+  },
+  {
+    "query": "用户症状：8岁男孩，越来越能吃，永远吃不饱，会偷吃东西，体重严重超标，个子比同龄人矮。",
+    "should_trigger": true,
+    "expected_disease": "普拉德-威利综合征",
+    "description": "PWS：暴食 + 病态肥胖 + 身材矮小"
+  },
+  {
+    "query": "用户症状：2岁孩子经常抽搐，脸上有红色小疙瘩，身上有好几处白色斑，发育比同龄人慢。",
+    "should_trigger": true,
+    "expected_disease": "结节性硬化症",
+    "description": "TSC：癫痫 + 面部血管纤维瘤 + 色素脱失斑"
+  },
+  {
+    "query": "用户症状：男孩3岁多了，走路还不太稳，经常摔跤，小腿看起来很粗但是没什么力，从地上站起来要用手撑着腿。",
+    "should_trigger": true,
+    "expected_disease": "杜氏肌营养不良",
+    "description": "DMD：男孩 + Gowers征 + 腓肠肌假性肥大"
+  },
+  {
+    "query": "用户症状：宝宝拍照时发现一只眼睛瞳孔发白，有点斗鸡眼。",
+    "should_trigger": true,
+    "expected_disease": "视网膜母细胞瘤",
+    "description": "RB：婴幼儿 + 白瞳（猫眼反射）+ 斜视"
+  },
+  {
+    "query": "用户症状：30岁女性，皮肤越来越黑，牙龈也变黑了，全身乏力，血压偏低，特别想吃咸的东西。",
+    "should_trigger": true,
+    "expected_disease": "艾迪生病",
+    "description": "Addison病：皮肤色素沉着 + 乏力 + 低血压 + 嗜盐"
+  },
+  {
+    "query": "用户症状：25岁，经常突然血压飙升到200，伴剧烈头痛、心跳很快、大汗淋漓，发作时脸色苍白。",
+    "should_trigger": true,
+    "expected_disease": "嗜铬细胞瘤",
+    "description": "嗜铬细胞瘤三联征：阵发性高血压 + 头痛 + 心悸 + 多汗"
+  },
+  {
+    "query": "用户症状：从小反复咳嗽、肺炎，大便油腻量多，长不胖，汗液很咸。",
+    "should_trigger": true,
+    "expected_disease": "囊性纤维化",
+    "description": "CF：慢性肺部感染 + 脂肪泻 + 汗液盐分高"
+  },
+  {
+    "query": "用户症状：皮肤特别容易拉伸，关节可以活动范围很大，经常脱臼，皮肤一碰就破留下宽疤痕。",
+    "should_trigger": true,
+    "expected_disease": "埃勒斯-当洛斯综合征",
+    "description": "EDS：皮肤高伸展性 + 关节过度活动 + 组织脆弱"
+  },
+  {
+    "query": "用户症状：儿童期发现血尿，后来逐渐听力下降，家族中妈妈和舅舅都有血尿史。",
+    "should_trigger": true,
+    "expected_disease": "Alport综合征",
+    "description": "Alport：血尿 + 感音神经性耳聋 + X连锁家族史"
+  },
+  {
+    "query": "用户症状：身上有很多棕色的胎记，腋窝也有色素沉着，皮下能摸到一些软软的包块。",
+    "should_trigger": true,
+    "expected_disease": "神经纤维瘤病",
+    "description": "NF1：牛奶咖啡斑 + 腋窝雀斑 + 皮肤神经纤维瘤"
+  },
+  {
+    "query": "用户症状：孩子长相比较特殊，额头突出，关节比较僵硬伸不直，个子偏矮，反复感冒肺炎。",
+    "should_trigger": true,
+    "expected_disease": "黏多糖贮积症",
+    "description": "MPS：特殊面容 + 关节僵硬 + 矮小 + 反复感染"
+  },
+  {
+    "query": "用户症状：最近总是头痛，有点恶心，感觉累，食欲不太好。",
+    "should_trigger": true,
+    "expected_disease": null,
+    "description": "非特异性症状，不应匹配任何特定罕见病"
+  },
+  {
+    "query": "用户症状：感冒了，流鼻涕，咳嗽，嗓子疼，有点发烧。",
+    "should_trigger": true,
+    "expected_disease": null,
+    "description": "普通感冒症状，不应匹配任何罕见病"
+  }
+]

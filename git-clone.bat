@@ -1,0 +1,1 @@
+cmd /k git clone git@github.com:xiaopch/rare-disease-diagnosis.git

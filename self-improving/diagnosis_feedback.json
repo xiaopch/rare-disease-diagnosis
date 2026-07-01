@@ -1,0 +1,65 @@
+{
+  "total_feedbacks": 6,
+  "feedbacks": [
+    {
+      "timestamp": "2026-06-29T02:09:02.722315",
+      "symptoms": "反复发作的腹痛、腹泻",
+      "predicted_disease": "戈谢病",
+      "actual_disease": "感冒",
+      "is_correct": false,
+      "accuracy_score": 3,
+      "user_comments": "关注",
+      "doctor_verified": false
+    },
+    {
+      "timestamp": "2026-06-29T02:10:26.427124",
+      "symptoms": "测试症状",
+      "predicted_disease": "测试疾病",
+      "actual_disease": "3",
+      "is_correct": false,
+      "accuracy_score": 3,
+      "user_comments": "",
+      "doctor_verified": false
+    },
+    {
+      "timestamp": "2026-06-29T02:10:56.544031",
+      "symptoms": "测试症状",
+      "predicted_disease": "测试疾病",
+      "actual_disease": "3",
+      "is_correct": false,
+      "accuracy_score": 3,
+      "user_comments": "",
+      "doctor_verified": false
+    },
+    {
+      "timestamp": "2026-06-29T02:11:34.590012",
+      "symptoms": "测试症状",
+      "predicted_disease": "测试疾病",
+      "actual_disease": "3",
+      "is_correct": false,
+      "accuracy_score": 3,
+      "user_comments": "",
+      "doctor_verified": false
+    },
+    {
+      "timestamp": "2026-06-29T02:12:33.689952",
+      "symptoms": "测试症状",
+      "predicted_disease": "测试疾病",
+      "actual_disease": null,
+      "is_correct": true,
+      "accuracy_score": 5,
+      "user_comments": "测试反馈",
+      "doctor_verified": false
+    },
+    {
+      "timestamp": "2026-06-29T02:15:50.356486",
+      "symptoms": "不明原因发热、皮疹",
+      "predicted_disease": "艾迪生病",
+      "actual_disease": "湿疹",
+      "is_correct": null,
+      "accuracy_score": 3,
+      "user_comments": "一般",
+      "doctor_verified": false
+    }
+  ]
+}
